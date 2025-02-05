@@ -12,13 +12,15 @@
 - *Web Development*: HTML, CSS, Bootstrap.  
 - *Data Structures & Algorithms*: Daily practice on LeetCode and GitHub  
 
+
 ---
 
 ## 🌟 Achievements  
 
-- 🎓 *Mentor*: Coding Lead in the GDSC club, guiding peers in coding and DSA.  
-- 💻 *GitHub Contributions*: Regularly contribute code and projects.
 - 🏅 *Secretary*: Secretary at CSI (Computer Society of India), actively participating in organizing events and building the community.  
+- 🎓 *Mentor*: Coding Lead at the GDSC club, guiding peers in coding and DSA.  
+- 💻 *GitHub Contributions*: Regularly contribute code and projects.
+
 
 ---
 
